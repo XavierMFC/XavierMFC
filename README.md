@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[修仙缘](https://i.y.qq.com/v8/playsong.html?songmid=0011To691GaQrZ&CPUV=94&channelId=10048846&ADTAG=baiduald&keep_cid=1)
 因果轮回凡俗世外  有人落寞有人开怀  
 没有什么对错应该不应该  
 一叶扁舟随风而去  心若定水亦静  
@@ -8,7 +9,7 @@
 修仙之路莫道比青天难行  
 昂首向前走  
 得与失之间会明白所有  
-[From 修仙缘](https://i.y.qq.com/v8/playsong.html?songmid=0011To691GaQrZ&CPUV=94&channelId=10048846&ADTAG=baiduald&keep_cid=1)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
