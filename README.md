@@ -2,20 +2,13 @@
 
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a lab
-- 🌱 I’m currently learning fundation model in vision
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-
-### 🔨 Languages and Tools
-
-<!-- ### Education 👋 -->
-
-Chinese university of mining and technology
-University of Chinese Academy of Science
-Awrospace Information Reaserch institute, Chinese Academy of Science
-
-
-
