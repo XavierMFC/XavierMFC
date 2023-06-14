@@ -25,9 +25,9 @@
 
 #  🎓 Education
 
-- Chinese university of mining and technology 
-- University of Chinese Academy of Science 
-- Aerospace Information Reaserch institute, Chinese Academy of Science
+2014 - 2018 Chinese university of mining and technology  
+2018 - 2021 University of Chinese Academy of Science  
+2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science
 
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
