@@ -11,16 +11,8 @@
 得与失之间会明白所有  
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-#  🎓 Education
+#  🎓 Education  
 
 **Master of Engineering**  
 &ensp;&ensp;&ensp;&ensp; 2018 - 2021 University of Chinese Academy of Science,Beijing, CN  
@@ -29,7 +21,8 @@
 **Bachelor of Engineering**  
 &ensp;&ensp;&ensp;&ensp; 2014 - 2018 Chinese university of mining and technology, CN
 
-
+# 👷 Project  
+## 💡 Data Fusion
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
