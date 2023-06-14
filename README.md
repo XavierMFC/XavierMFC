@@ -18,11 +18,11 @@
 #  🎓 Education  
 
 **Master of Engineering**  
-&ensp;&ensp;&ensp;&ensp; 2018 - 2021 University of Chinese Academy of Science, Beijing, CN  
-&ensp;&ensp;&ensp;&ensp; 2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science, Beijing, CN 
+2018 - 2021 University of Chinese Academy of Science, Beijing, CN  
+2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science, Beijing, CN 
  
 **Bachelor of Engineering**  
-&ensp;&ensp;&ensp;&ensp; 2014 - 2018 Chinese university of mining and technology, CN
+2014 - 2018 Chinese university of mining and technology, CN
 
 # 👷 Project  
 ## 💡 Data Fusion  
