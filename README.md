@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Education
+# Education
 
 - Chinese university of mining and technology 
 - University of Chinese Academy of Science 
