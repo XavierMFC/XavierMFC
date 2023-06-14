@@ -22,11 +22,10 @@
 
 #  🎓 Education
 
-2018 - 2021 University of Chinese Academy of Science  
-2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science  
-2014 - 2018 Chinese university of mining and technology  
-        - Bachelor of engineer
-        - remote sensing
+2018 - 2021 University of Chinese Academy of Science,Beijing, CN  
+2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science,Beijing, CN  
+#Bachelor#
+2014 - 2018 Chinese university of mining and technology, CN
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
