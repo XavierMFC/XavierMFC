@@ -24,8 +24,10 @@
 
 **Master of Engineering**  
 >> 2018 - 2021 University of Chinese Academy of Science,Beijing, CN  
->> 2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science,Beijing, CN  
+>> 2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science,Beijing, CN 
+ 
 **Bachelor of Engineering**  
+
 >> 2014 - 2018 Chinese university of mining and technology, CN
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
