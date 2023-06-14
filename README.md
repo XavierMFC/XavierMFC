@@ -22,7 +22,7 @@
 2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science, Beijing, CN 
  
 **Bachelor of Engineering**  
-2014 - 2018 Chinese university of mining and technology, CN
+2014 - 2018 Chinese university of mining and technology, Beijing, CN
 
 # 👷 Project  
 ## 💡 Data Fusion  
