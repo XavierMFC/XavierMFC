@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 
 ### 🔨 Languages and Tools
 
-<!-- ### Hi there 👋 -->
+<!-- ### Education 👋 -->
 
+Chinese university of mining and technology
+University of Chinese Academy of Science
+Awrospace Information Reaserch institute, Chinese Academy of Science
 
 
 
