@@ -23,11 +23,11 @@
 #  🎓 Education
 
 **Master of Engineering**  
-&ensp;&ensp2018 - 2021 University of Chinese Academy of Science,Beijing, CN  
-&ensp;&ensp2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science,Beijing, CN 
+&ensp;&ensp;&ensp;&ensp; 2018 - 2021 University of Chinese Academy of Science,Beijing, CN  
+&ensp;&ensp;&ensp;&ensp; 2018 - 2021 Aerospace Information Reaserch institute, Chinese Academy of Science,Beijing, CN 
  
 **Bachelor of Engineering**  
-&ensp;&ensp2014 - 2018 Chinese university of mining and technology, CN
+&ensp;&ensp;&ensp;&ensp; 2014 - 2018 Chinese university of mining and technology, CN
 
 
 <!--
