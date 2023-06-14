@@ -9,6 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Education
+
+- Chinese university of mining and technology 
+- University of Chinese Academy of Science 
+- Aerospace Information Reaserch institute, Chinese Academy of Science
+
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
