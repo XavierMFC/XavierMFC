@@ -23,7 +23,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# mortar_board Education
+#  🎓 Education
 
 - Chinese university of mining and technology 
 - University of Chinese Academy of Science 
