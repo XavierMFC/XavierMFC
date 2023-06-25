@@ -26,11 +26,18 @@
 
 # 👷 Project  
 ## 💡 Data Fusion  
-  
+  - High-Resolution RGB Image
+  - Multi-Spectral Satallite Image
+  - LiDAR Data
+    
 ## 💡 Water Extraction From SAR 
-
+  - GNN
+  - SAR Data
   
 ## 💡 Farmland Mapping Using Utral-High Spacial Resolution UAV Image
+  - Multi-task learning
+  - Semantic Segmentation
+  - UAV Iamge
 <!--
 **XavierMFC/XavierMFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
